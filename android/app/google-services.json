@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "832802593616",
+    "firebase_url": "https://modern-acdemy.firebaseio.com",
+    "project_id": "modern-acdemy",
+    "storage_bucket": "modern-acdemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832802593616:android:8e3f9484dc4713cd146a55",
+        "android_client_info": {
+          "package_name": "modernacademy.com.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832802593616-gdgmicafn482ujsj7tsiinpvilophq62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTu8z1dvxETwy_9f-S_ruadB-8lpHAMuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832802593616-gdgmicafn482ujsj7tsiinpvilophq62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832802593616:android:7966683008aa4c6b146a55",
+        "android_client_info": {
+          "package_name": "project.modern.com.modern_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832802593616-gdgmicafn482ujsj7tsiinpvilophq62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTu8z1dvxETwy_9f-S_ruadB-8lpHAMuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832802593616-gdgmicafn482ujsj7tsiinpvilophq62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
